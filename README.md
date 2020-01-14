@@ -1,9 +1,9 @@
 # REACH-bookmarklet-helpers
 
-Bookmarklets that inject js to <b>xx.reachboarding.com</b> to walk users through various tasks.
-<br>
+Bookmarklets that inject js to ```xx.reachboarding.com``` to walk users through various tasks.
+<br><br>
 Intended for testing and proof of concept.
-<br>
+<br><br>
 Drag the following links into your bookmark bar to make them accessible on your REACH site
-<br>
+<br><br>
 [TEST](javascript:(function(){alert(0);})();)
