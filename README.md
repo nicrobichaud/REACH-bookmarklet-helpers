@@ -5,4 +5,4 @@ Bookmarklets that inject js to <b>xx.reachboarding.com</b> to walk users through
 Intended for testing and proof of concept.
 
 Drag the following links into your bookmark bar to make them accessible on your REACH site
-<a href=javascript:(function(){alert(0);})();>TEST</a>
+<a href="javascript:(function(){alert(0);})();">TEST</a>
